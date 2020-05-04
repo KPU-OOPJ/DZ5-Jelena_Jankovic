@@ -1,0 +1,4 @@
+ParkingMesto{slobodno=false, registarskiBroj='BG 123-456'}
+ParkingMesto{slobodno=false, registarskiBroj='NS 234-56'}
+
+ParkingMesto{slobodno=false, registarskiBroj='BG 123-456'}
